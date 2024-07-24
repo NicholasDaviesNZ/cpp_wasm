@@ -1,0 +1,4 @@
+{
+    "name": "CPP_WASM",
+    "dockerFile": "Dockerfile",
+  }
